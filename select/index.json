@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "World's Smallest Violin",
+  "base_artist": "AJR",
+  "createdAt": "2025-12-03T14:32:33.874237Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The World's Smallest Violin",
+      "artist": "The Koreatown Oddity feat. Jimetta Rose & Corrine Atkinson",
+      "has_synced": false,
+      "path": "select/01_The_World's_Smallest_Violin_The_Koreatown_Oddity_feat._Jimetta_Rose_&_Corrine_Atkinson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/02_World's_Smallest_Violin_AJR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The World's Smallest Violin",
+      "artist": "The Koreatown Oddity / Jimetta Rose / Corrine Atkinson",
+      "has_synced": false,
+      "path": "select/03_The_World's_Smallest_Violin_The_Koreatown_Oddity___Jimetta_Rose___Corrine_Atkinson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The World's Smallest Violin",
+      "artist": "The Koreatown Oddity",
+      "has_synced": false,
+      "path": "select/04_The_World's_Smallest_Violin_The_Koreatown_Oddity.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/05_World's_Smallest_Violin_AJR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "World's Smallest Violin - Sped Up",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/06_World's_Smallest_Violin_-_Sped_Up_AJR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "World's Smallest Violin (Sped Up)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/07_World's_Smallest_Violin_(Sped_Up)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/08_World's_Smallest_Violin_AJR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "AJR - World's Smallest Violin (Official Video)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/09_AJR_-_World's_Smallest_Violin_(Official_Video)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "AJR - Topic",
+      "has_synced": true,
+      "path": "select/10_World's_Smallest_Violin_AJR_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The World's Smallest Violin (Feat. Jimetta Rose & Corrine Atkinson)",
+      "artist": "The Koreatown Oddity",
+      "has_synced": false,
+      "path": "select/11_The_World's_Smallest_Violin_(Feat._Jimetta_Rose_&_Corrine_Atkinson)_The_Koreatown_Oddity.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/12_World's_Smallest_Violin_AJR.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mastering The World's Smallest Violin",
+      "artist": "The Flatliners",
+      "has_synced": true,
+      "path": "select/13_Mastering_The_World's_Smallest_Violin_The_Flatliners.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "Learke",
+      "has_synced": true,
+      "path": "select/14_World's_Smallest_Violin_Learke.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/15_World's_Smallest_Violin_AJR.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "AJR - World's Smallest Violin (Official Video)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/16_AJR_-_World's_Smallest_Violin_(Official_Video)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "VoicePlay feat. J.None",
+      "has_synced": false,
+      "path": "select/17_World's_Smallest_Violin_VoicePlay_feat._J.None.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "VoicePlay",
+      "has_synced": false,
+      "path": "select/18_World's_Smallest_Violin_VoicePlay.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "World's Smallest Violin",
+      "artist": "James Major",
+      "has_synced": false,
+      "path": "select/19_World's_Smallest_Violin_James_Major.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "AJR - World's Smallest Violin (Lyrics)",
+      "artist": "7clouds",
+      "has_synced": true,
+      "path": "select/20_AJR_-_World's_Smallest_Violin_(Lyrics)_7clouds.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "World's Smallest Violin",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/pl_01_World's_Smallest_Violin_AJR.txt"
+    }
+  ]
+}
